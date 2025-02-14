@@ -1,4 +1,4 @@
-# Guia Turístico - Belezas da Paraíba 🌴
+# Guia Turístico 
 
 Este projeto é um mini sistema web desenvolvido para a disciplina de **Linguagens de Script para Web**, com o objetivo de aprender e aplicar conceitos de **JavaScript** em um ambiente prático.
 
